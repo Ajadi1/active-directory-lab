@@ -5,7 +5,7 @@
 > attacks against it and **detected, cracked, and fixed** every one — proving the
 > fixes held.
 
-**Author:** Opeyemi Ajadi · MS Cybersecurity (Lewis University) · CompTIA Security+ · Microsoft SC‑200
+**Author:** Opeyemi Ajadi · MS Cybersecurity · CompTIA Security+ · Microsoft SC‑200
 
 ---
 
